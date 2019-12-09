@@ -74,5 +74,6 @@ public class problemeLab2simple {
         problema6_3();
         System.out.println();
         problema6_4();
+        System.out.println();
     }
 }
